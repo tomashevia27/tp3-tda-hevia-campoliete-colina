@@ -1,0 +1,105 @@
+
+4_4.txt
+Grupo 1: Pakku
+Grupo 2: Yakone
+Grupo 3: Pakku I
+Grupo 4: Yue
+Coeficiente: 1332642
+
+5_4.txt
+Grupo 1: Pakku
+Grupo 2: Yakone
+Grupo 3: Wei
+Grupo 4: Yue, Pakku I
+Coeficiente: 1970926
+
+6_4.txt
+Grupo 1: Hama I
+Grupo 2: Wei I
+Grupo 3: Wei, Hama
+Grupo 4: Hasook, Senna
+Coeficiente: 4278266
+
+7_4.txt
+Grupo 1: Unalaq
+Grupo 2: Hasook
+Grupo 3: Hama, Tonraq
+Grupo 4: Amon, Katara, Misu
+Coeficiente: 2182815
+
+8_4.txt
+Grupo 1: Hasook
+Grupo 2: Tonraq, Amon
+Grupo 3: Misu, Unalaq
+Grupo 4: Rafa, Katara, Hama
+Coeficiente: 2610987
+
+9_4.txt
+Grupo 1: Wei, Pakku
+Grupo 2: La, Sangok
+Grupo 3: Amon, Yue
+Grupo 4: Eska, Sura, Siku
+Coeficiente: 5993077
+
+10_4.txt
+Grupo 1: Wei, Sangok
+Grupo 2: Siku, Yue
+Grupo 3: Eska, Pakku, La
+Grupo 4: Amon, Tonraq, Sura
+Coeficiente: 6273483
+
+11_4.txt
+Grupo 1: Yakone, Siku II, Kya
+Grupo 2: Siku I, Tonraq, Misu I
+Grupo 3: Misu, Hasook
+Grupo 4: Siku, Pakku, Hama
+Coeficiente: 7400426
+
+12_4.txt
+Grupo 1: Huu, Sangok
+Grupo 2: Katara, Eska II, Wei
+Grupo 3: Eska, Tonraq I, Eska I
+Grupo 4: Misu, Rafa, Tonraq, Kuruk
+Coeficiente: 7773266
+
+13_4.txt
+Grupo 1: Misu, Sangok
+Grupo 2: Hama, Katara
+Grupo 3: Wei, Huu, Eska I, Tonraq I
+Grupo 4: Eska II, Kuruk, Rafa, Tonraq, Eska
+Coeficiente: 7678766
+
+14_4.txt
+Grupo 1: Eska II, Kuruk, Hama, Eska
+Grupo 2: Tonraq I, Sangok I, Sangok
+Grupo 3: Misu, Eska I, Katara
+Grupo 4: Wei, Rafa, Huu, Tonraq
+Coeficiente: 12809254
+
+15_4.txt
+Grupo 1: Tho, Desna, Tonraq
+Grupo 2: Hama, Hasook, Tonraq I, Wei
+Grupo 3: Kuruk, Pakku, Kya, Yue
+Grupo 4: Katara, Kuruk I, Yakone, Senna
+Coeficiente: 14394452
+
+16_4.txt
+Grupo 1: Huu, Senna, Hama, Tho
+Grupo 2: Wei, Amon I, Sangok I, Misu I, Sangok
+Grupo 3: Yakone, Unalaq, Yakone I, Rafa
+Grupo 4: Senna I, Amon, Misu
+Coeficiente: 19833663
+
+17_4.txt
+Grupo 1: Sangok I, Unalaq, Senna, Yakone I
+Grupo 2: Amon, Ming-Hua, Amon I, Rafa
+Grupo 3: Misu I, Tho, Wei, Yakone
+Grupo 4: Sangok, Hama, Huu, Senna I, Misu
+Coeficiente: 15657866
+
+18_4.txt
+Grupo 1: Hama, Yue I, Misu, Hama I
+Grupo 2: Huu, Yue, Yakone
+Grupo 3: Senna, Yue II, Kuruk, Amon, Kuruk I
+Grupo 4: Misu I, Sangok, Pakku, Kya, Kya I, Tho
+Coeficiente: 16491722

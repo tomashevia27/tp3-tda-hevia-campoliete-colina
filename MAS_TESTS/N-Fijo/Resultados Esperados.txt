@@ -1,0 +1,81 @@
+
+17_2.txt
+Grupo 1: Senna I, Sangok I, Unalaq, Amon, Yakone I, Huu, Rafa, Ming-Hua, Senna, Sangok, Wei
+Grupo 2: Misu I, Tho, Misu, Yakone, Amon I, Hama
+Coeficiente: 24703421
+
+17_3.txt
+Grupo 1: Senna I, Misu, Sangok, Misu I, Sangok I
+Grupo 2: Hama, Rafa, Amon I, Yakone, Huu, Unalaq
+Grupo 3: Tho, Ming-Hua, Amon, Wei, Senna, Yakone I
+Coeficiente: 37241634
+
+17_4.txt
+Grupo 1: Amon, Amon I, Misu I
+Grupo 2: Sangok I, Hama, Wei, Yakone I, Ming-Hua
+Grupo 3: Misu, Huu, Senna, Rafa
+Grupo 4: Unalaq, Yakone, Senna I, Sangok, Tho
+Coeficiente: 12348202
+
+17_5.txt
+Grupo 1: Tho, Senna I, Wei
+Grupo 2: Unalaq, Yakone I, Amon, Sangok
+Grupo 3: Rafa, Hama, Huu
+Grupo 4: Yakone, Senna, Misu I
+Grupo 5: Amon I, Misu, Ming-Hua, Sangok I
+Coeficiente: 19626012
+
+17_6.txt
+Grupo 1: La, Wei, Tonraq
+Grupo 2: Desna, Rafa
+Grupo 3: Hasook, Pakku II, Hasook I
+Grupo 4: Pakku I, Sangok, Yue
+Grupo 5: Hama, Eska, Unalaq
+Grupo 6: Siku, Wei I, Pakku
+Coeficiente: 15540208
+
+17_7.txt
+Grupo 1: Pakku I, Pakku II
+Grupo 2: Rafa, Hasook, Pakku
+Grupo 3: La, Hama
+Grupo 4: Yue, Tonraq
+Grupo 5: Wei, Siku
+Grupo 6: Hasook I, Eska, Sangok
+Grupo 7: Desna, Unalaq, Wei I
+Coeficiente: 11226264
+
+17_8.txt
+Grupo 1: Pakku, Wei
+Grupo 2: Siku I, Sura
+Grupo 3: Rafa, Yue
+Grupo 4: Wei I, Siku
+Grupo 5: Hama, Misu, Desna
+Grupo 6: Sangok, Eska
+Grupo 7: Yue I, Tho
+Grupo 8: Pakku I, Amon
+Coeficiente: 10849969
+
+17_9.txt
+Grupo 1: Yue
+Grupo 2: Sangok, Wei I
+Grupo 3: Yue I, Hama
+Grupo 4: Pakku I, Desna
+Grupo 5: Siku, Sura
+Grupo 6: Pakku, Tho
+Grupo 7: Siku I, Rafa
+Grupo 8: Amon, Misu
+Grupo 9: Eska, Wei
+Coeficiente: 8632869
+
+17_10.txt
+Grupo 1: Wei I
+Grupo 2: Hama
+Grupo 3: Desna
+Grupo 4: Tho, Pakku
+Grupo 5: Siku, Rafa
+Grupo 6: Amon, Yue I
+Grupo 7: Pakku I, Eska
+Grupo 8: Wei, Yue
+Grupo 9: Sangok, Misu
+Grupo 10: Siku I, Sura
+Coeficiente: 9180665

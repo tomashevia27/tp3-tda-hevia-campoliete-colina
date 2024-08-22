@@ -1,0 +1,15 @@
+# La primera linea indica la cantidad de grupos a formar, las siguientes son de la forma 'nombre maestro, habilidad'
+4
+Eska, 481
+Huu, 388
+Tonraq, 26
+Misu, 930
+Sangok, 471
+Kuruk, 305
+Katara, 806
+Wei, 571
+Eska I, 130
+Eska II, 472
+Tonraq I, 290
+Rafa, 98
+Hama, 574

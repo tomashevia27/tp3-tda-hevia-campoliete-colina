@@ -1,0 +1,19 @@
+# La primera linea indica la cantidad de grupos a formar, las siguientes son de la forma 'nombre maestro, habilidad'
+10
+Wei, 647
+Yue, 302
+Rafa, 755
+Tho, 123
+Desna, 891
+Misu, 415
+Sura, 538
+Amon, 276
+Hama, 932
+Siku, 188
+Yue I, 721
+Siku I, 449
+Sangok, 569
+Pakku, 837
+Pakku I, 290
+Eska, 684
+Wei I, 960
